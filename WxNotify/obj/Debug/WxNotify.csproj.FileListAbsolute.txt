@@ -1,0 +1,6 @@
+F:\Workspace\Unity\MyFramework\Dll.sln\WxNotify\WxNotify\obj\Debug\WxNotify.csproj.AssemblyReference.cache
+F:\Workspace\Unity\MyFramework\Dll.sln\WxNotify\WxNotify\obj\Debug\WxNotify.csproj.CoreCompileInputs.cache
+F:\Workspace\Unity\MyFramework\Dll.sln\WxNotify\WxNotify\bin\Debug\WxNotify.dll
+F:\Workspace\Unity\MyFramework\Dll.sln\WxNotify\WxNotify\bin\Debug\WxNotify.pdb
+F:\Workspace\Unity\MyFramework\Dll.sln\WxNotify\WxNotify\obj\Debug\WxNotify.dll
+F:\Workspace\Unity\MyFramework\Dll.sln\WxNotify\WxNotify\obj\Debug\WxNotify.pdb
